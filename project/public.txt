@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque
 massa ac felis accumsan semper. Mauris eget lorem vitae massa condimentum
 dictum. Phasellus euismod purus pretium mattis dapibus. Mauris mi felis,
 ultricies nec mollis in, feugiat ac magna. In hac habitasse platea dictumst.
@@ -42,4 +42,4 @@ ullamcorper ullamcorper, vestibulum eget lacus. Duis fermentum felis nibh,
 congue scelerisque lacus condimentum a. Fusce venenatis elementum dapibus.
 Maecenas interdum commodo felis ac auctor. Phasellus posuere velit nec felis
 fermentum, in sodales elit consectetur. Curabitur diam nibh, lobortis ac neque
-fringilla, venenatis fringilla magna.
+fringilla, venenatis fringilla magna. </p>
